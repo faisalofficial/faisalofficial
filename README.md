@@ -18,21 +18,22 @@ You can click the Preview link to take a look at your changes.
 
 # Flutter Projects
 
-- **[FLASH CHAT](https://github.com/CoderF2403/flash_chat)**
+- **[FLASH CHAT](https://github.com/faisalofficial/flash_chat)**
 
-- **[CRYPTO TICKER](  https://github.com/CoderF2403/crypto_ticker)**
+- **[CRYPTO TICKER](  https://github.com/faisalofficial/crypto_ticker)**
 
-- **[CLIMA - A WEATHER APP](https://github.com/CoderF2403/clima)**
+- **[CLIMA - A WEATHER APP](https://github.com/faisalofficial/clima)**
 
-- **[BMI CALCULATOR](https://github.com/CoderF2403/bmicalculator)**
+- **[BMI CALCULATOR](https://github.com/faisalofficial/bmicalculator)**
 
 
 # Python Projects
 
-- **[DATA WRANGLNG PROJECT](https://github.com/CoderF2403/Data-Wrangling-UNICEF)**
+- **[DATA WRANGLNG PROJECT](https://github.com/faisalofficial/Data-Wrangling-UNICEF)**
 
-- **[YOUTUBE VIDEO & AUDIO DOWNLOAD](https://github.com/CoderF2403/Python-Youtube---Audio-Video-Downloader)**
+- **[YOUTUBE VIDEO & AUDIO DOWNLOAD](https://github.com/faisalofficial/Python-Youtube---Audio-Video-Downloader)**
 
+- **[STUDENT MANAGEMENT SYSTEM](https://github.com/faisalofficial/Student-Management-System)**
   
   
 
