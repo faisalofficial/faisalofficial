@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 # Flutter Projects
 
-- **[FLASH CHAT](https://github.com/faisalofficial/flash_chat)**
+- **[FLASH CHAT](https://github.com/faisalofficial/Flash-Chat)**
 
-- **[CRYPTO TICKER](  https://github.com/faisalofficial/crypto_ticker)**
+- **[CRYPTO TICKER](https://github.com/faisalofficial/BMI-Calculator)**
 
-- **[CLIMA - A WEATHER APP](https://github.com/faisalofficial/clima)**
+- **[CLIMA - A WEATHER APP](https://github.com/faisalofficial/Clima)**
 
-- **[BMI CALCULATOR](https://github.com/faisalofficial/bmicalculator)**
+- **[BMI CALCULATOR](https://github.com/faisalofficial/Crypto-Ticker)**
 
 
 # Python Projects
