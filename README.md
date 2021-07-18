@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 - **[FLASH CHAT](https://github.com/faisalofficial/Flash-Chat)**
 
-- **[CRYPTO TICKER](https://github.com/faisalofficial/BMI-Calculator)**
+- **[BMI CALCULATOR](https://github.com/faisalofficial/BMI-Calculator)**
 
 - **[CLIMA - A WEATHER APP](https://github.com/faisalofficial/Clima)**
 
-- **[BMI CALCULATOR](https://github.com/faisalofficial/Crypto-Ticker)**
+- **[CRYPTO TICKER](https://github.com/faisalofficial/Crypto-Ticker)**
 
 
 # Python Projects
